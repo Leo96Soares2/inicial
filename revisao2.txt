@@ -1,0 +1,5 @@
+Fazendo o Revert:
+git checkout + nome da branch: da qual vai fazer o revert da versão
+git log: pegar o carimbo(numero) que pretende fazer o revert
+git revert + numero do carimbo
+git push: pra poder atualizar
