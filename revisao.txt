@@ -1,0 +1,10 @@
+Colocação de codigos do git pod:
+git branch: pra criar nov branch
+git checkout : para alterar a branch
+git add + nome do arquivo para adiciona-lo
+git commit -m + nome do arquivo : para poder fazer o commit
+git push origin + nome da branch: pra poder unir os fontes
+git push: pra poder atualizar
+git checkou e mudar para master para fazer o merge
+git merge + nome da branch: pra poder fazer o merge da versão com a master
+git push : pra poder atualizar a pagina 
